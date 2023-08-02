@@ -1,4 +1,3 @@
--![](https://komarev.com/ghpvc/?username=monjurCEL)
 -  👋 Hi, I’m @monjurCEL
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Jetpack Compose
