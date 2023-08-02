@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on android project
 - 📫 How to reach me ...
-- ![counter](https://[monjurCEL].m.pipedream.net)
 
 <!---
 monjurCEL/monjurCEL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
